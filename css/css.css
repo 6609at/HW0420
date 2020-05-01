@@ -351,8 +351,15 @@ figcaption:after {
     border-radius: 5px;
     display: flex;
     margin: auto;
+    padding: 0;
+    border: 0;
 }
-
+.prices-btn:hover {
+    
+}
+.prices-btn:active {
+    
+}
 .btn-txt {
     display: block;
     color: black;
@@ -362,5 +369,5 @@ figcaption:after {
     font-size: 18px;
     line-height: 1;
     font-weight: bold;
-    
 }
+
